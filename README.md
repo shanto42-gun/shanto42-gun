@@ -1,4 +1,5 @@
-<img width="1000" height="350" alt="download" src="https://github.com/user-attachments/assets/f7f3fc8f-1f8a-4d47-bc9d-c9c8f7ae1f9f" />
+<img width="600" height="338" alt="download" src="https://github.com/user-attachments/assets/2da6c0db-54ca-4652-9b13-418f53e0b738" />
+
 
 <!-- ========================================================= -->
 <!--                    SHANTO42-GUN PROFILE                   -->
