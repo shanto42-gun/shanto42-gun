@@ -1,4 +1,11 @@
 <img width="600" height="338" alt="download" src="https://github.com/user-attachments/assets/f7f3fc8f-1f8a-4d47-bc9d-c9c8f7ae1f9f" />
+<p align="center">
+  <img
+    src="./assets/banner.png"
+    alt="Shanto42-gun Banner"
+    width="100%"
+  />
+</p>
 <!-- ========================================================= -->
 <!--                    SHANTO42-GUN PROFILE                   -->
 <!-- ========================================================= -->
