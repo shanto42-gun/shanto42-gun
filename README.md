@@ -10,7 +10,7 @@
 <!-- ======================== INTRO =========================== -->
 
 <h1 align="center">
-  Namaste 🙏 I'm <span style="color:#c770ff;">Shanto</span> 🔥
+  ASSALAMULIKUM 😁 I'm <span style="color:#c770ff;">Shanto</span> 🔥
 </h1>
 
 <p align="center">
@@ -55,17 +55,8 @@ I'm **Shanto**, a passionate software developer who enjoys turning ideas into re
 
 ### 💭 My Philosophy
 
-```text
-        LEARN
-          ↓
-        BUILD
-          ↓
-        BREAK
-          ↓
-         FIX
-          ↓
-       IMPROVE
-          ↓
+
+ 
         REPEAT</td> <td width="40%" align="center">
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coding.gif" width="280" alt="Coding" />
