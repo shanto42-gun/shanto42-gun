@@ -33,10 +33,10 @@
   🌀 About Me
 </h2>
 
-<table align="center" width="90%">
+<table align="center" width="120%">
 <tr>
 
-<td width="60%" valign="top">
+<td width="80%" valign="top">
 
 ### 👋 Hello!
 
