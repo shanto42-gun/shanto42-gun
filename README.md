@@ -14,7 +14,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=800&color=C770FF&center=true&vCenter=true&width=800&lines=ASSALAMULAIKUM+%F0%9F%98%81;I'm+Shanto+%F0%9F%94%A5;Welcome+to+my+GitHub!+%F0%9F%9A%80"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=800&color=4D9FFF&center=true&vCenter=true&width=800&lines=ASSALAMULAIKUM+%F0%9F%98%81;I'm+Shanto+%F0%9F%94%A5;Welcome+to+my+GitHub!+%F0%9F%9A%80"
     alt="Animated introduction"
   />
 </p>
@@ -56,13 +56,9 @@ I'm **Shanto**, a passionate software developer who enjoys turning ideas into re
 
 🎯 My goal is to become a better developer every single day.
 
-<br>
-
-### 💭 My Philosophy
 
 
- 
-        REPEAT</td> <td width="40%" align="center">
+
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coding.gif" width="280" alt="Coding" />
 
