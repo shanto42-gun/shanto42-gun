@@ -11,9 +11,14 @@
 <!-- ======================== INTRO =========================== -->
 
 <h1 align="center">
-  ASSALAMULIKUM 😁 I'm <span style="color:#c770ff;">Shanto</span> 🔥
+  ASSALAMULIKUM 😁 I'm <span style="color=4D9FFF;">Shanto</span> 🔥
 </h1>
-
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=800&color=C770FF&center=true&vCenter=true&width=800&lines=ASSALAMULAIKUM+%F0%9F%98%81;I'm+Shanto+%F0%9F%94%A5;Welcome+to+my+GitHub!+%F0%9F%9A%80"
+    alt="Animated introduction"
+  />
+</p>
 <p align="center">
   <b>Software Developer • Programmer • Problem Solver</b>
 </p>
